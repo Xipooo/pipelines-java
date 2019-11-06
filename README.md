@@ -1,3 +1,4 @@
+[![Build Status](https://programmingmadeez.visualstudio.com/Galvanize/_apis/build/status/Xipooo.pipelines-java?branchName=master)](https://programmingmadeez.visualstudio.com/Galvanize/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
